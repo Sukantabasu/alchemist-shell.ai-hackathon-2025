@@ -10,7 +10,7 @@ project_root = os.path.abspath(os.path.join(docs_dir, '../..'))
 sys.path.insert(0, os.path.abspath('../..'))
 
 # Project information
-project = 'JAX-ALFA'
+project = 'Alchemy-Shell.ai-Hackathon-2025'
 copyright = '2025, Sukanta Basu'
 author = 'Sukanta Basu'
 release = '0.0.1'
