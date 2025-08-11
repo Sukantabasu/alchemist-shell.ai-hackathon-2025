@@ -1,5 +1,5 @@
-Convective BL
-=============
+Notebooks
+==========
 
 .. toctree::
    :maxdepth: 1
