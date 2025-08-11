@@ -16,6 +16,7 @@ Contents
    :caption: Contents:
 
    README
+   notebooks/index
 
 Installation
 ------------
