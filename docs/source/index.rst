@@ -8,12 +8,12 @@ Welcome to ALCHEMIST
 
 This project focuses on fuel property prediction using machine learning techniques.
 
-Content
+Contents
 --------
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: ALCHEMIST's Recipe:
 
    README
    notebooks/index
