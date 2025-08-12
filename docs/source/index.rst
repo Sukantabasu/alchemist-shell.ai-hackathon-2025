@@ -3,13 +3,18 @@ ALCHEMIST Documentation
 
 ALCHEMIST: (A)IML-powered (L)ow-(c)ost, (H)igh-octane (E)co-fuel (M)ixture (I)dentification (S)trategy & (T)oolkit
 
-Welcome to ALCHEMIST
---------------------
+Problem Statement
+-----------------
 
 This project focuses on fuel property prediction using machine learning techniques.
 
-Contents
---------
+Challenges
+----------
+
+
+Propopsed Framework
+-------------------
+
 
 .. toctree::
    :maxdepth: 2
