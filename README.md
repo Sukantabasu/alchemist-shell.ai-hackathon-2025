@@ -61,12 +61,15 @@ We would like to note that both RealMLP and TabPFN are not included in the curre
 Usage Guide
 ------------
 
-1. **Prepare Data Structure**:
-a. Create a DATA/ folder containing train.csv and test.csv
-b. Create an ExtractedDATA/ folder for processed outputs
-c. Create a Models/ folder for trained model artifacts
+1. **Prepare Data Structure**
 
-2. **Run the Pipeline**:
+Create a DATA/ folder containing train.csv and test.csv
+
+Create an ExtractedDATA/ folder for processed outputs
+
+Create a Models/ folder for trained model artifacts
+
+3. **Run the Pipeline**:
 
 Step #1: Preprocessing
 
