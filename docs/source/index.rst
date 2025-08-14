@@ -16,8 +16,8 @@ The problem involves:
   - Volume fraction in the blend
   - 10 individual properties per component (Component1\_Property1 through Component5\_Property10)
 - **Target Variables**: 10 blend properties that need to be predicted
-- **Training Data**: Historical fuel blend data with known outcomes
-- **Test Data**: New fuel blend compositions requiring property predictions
+- **Training Data**: Historical fuel blend data with known outcomes, sample size = 2000
+- **Test Data**: New fuel blend compositions requiring property predictions, sample size = 500
 
 Challenges
 ----------
@@ -33,6 +33,12 @@ Propopsed Framework
 
    README
    notebooks/index
+
+AI Assistance 
+--------------
+
+Claude.AI (Anthropic) is used for documentation, code restructuring, and performance optimization
+
 
 Installation
 ------------
