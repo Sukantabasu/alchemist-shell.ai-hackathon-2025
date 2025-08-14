@@ -65,36 +65,24 @@ We would like to note that both RealMLP and TabPFN are not included in the curre
 Usage Guide
 ------------
 
-1. **Prepare Data Structure**:
+1. **Prepare Data Structure:**
 
-a. Create a DATA/ folder containing train.csv and test.csv
+   * Create a DATA/ folder containing train.csv and test.csv
+   * Create an ExtractedDATA/ folder for processed outputs  
+   * Create a Models/ folder for trained model artifacts
 
-b. Create an ExtractedDATA/ folder for processed outputs
+2. **Run the Pipeline:**
 
-c. Create a Models/ folder for trained model artifacts
-
-2. **Run the Pipeline**::
-
-a. Step #1: Preprocessing
-
-python Step1_Preprocess.py
-
-b. Step #2: Generate AutoGluon OOFs
-
-python Step2_AutoGluon_OOF.py
-
-c. Step #3: Train RealMLP models
-
-python Step3_RealMLP.py
-
-d. Step #4: Train TabPFN models
-
-python Step4_TabPFN.py
-
-e. Step #5: Final ensemble
-
-python Step5_Ensemble.py
-
+   * Step #1: Preprocessing
+     ``python Step1_Preprocess.py``
+   * Step #2: Generate AutoGluon OOFs
+     ``python Step2_AutoGluon_OOF.py``
+   * Step #3: Run RealMLP models
+     ``python Step3_RealMLP.py``
+   * Step #4: Run TabPFN models
+     ``python Step4_TabPFN.py``
+   * Step #5: Ensemble models
+     ``python Step5_Ensemble.py``
 
 .. toctree::
    :maxdepth: 2
