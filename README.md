@@ -31,8 +31,8 @@ Due to the limited samples (only 2000) in the training set, traditional hyper-pa
 
 It is well-known that MAPE can produce spurious scores for target values close to zero. For most of the targets, zero is close to the core of the distribution. Thus, a handful of faulty predictions can lead to astronomically large MAPE scores.  
 
-AIML Strategy
-----------------
+ALCHEMIST's Recipe
+------------------
 
 Our comprehensive machine learning strategy employs a sophisticated 5-step ensemble approach designed to maximize prediction accuracy while addressing the challenging issues identified above.
 
@@ -58,49 +58,32 @@ Based on cross-validation scores and public leaderboard performance (computed on
 
 We would like to note that both RealMLP and TabPFN are not included in the current stable release of AutoGluon (version 1.4.0). Thus, our multi-step ALCHEMIST framework benefited by having these two models on top of the AutoGluon stack.
 
-
 Usage Guide
---------------
+------------
 
 1. **Prepare Data Structure**:
-```
-project_root/
-├── Codes/
-├── DATA/
-│   ├── train.csv
-│   └── test.csv
-├── ExtractedDATA/
-└── Models/
-```
+a. Create a DATA/ folder containing train.csv and test.csv
+b. Create an ExtractedDATA/ folder for processed outputs
+c. Create a Models/ folder for trained model artifacts
 
 2. **Run the Pipeline**:
-```bash
-# Step 1: Preprocessing
+
+Step #1: Preprocessing
 python Step1_Preprocess.py
 
-# Step 2: Generate AutoGluon OOFs
+Step #2: Generate AutoGluon OOFs
 python Step2_AutoGluon_OOF.py
 
-# Step 3: Train RealMLP models
+Step #3: Train RealMLP models
 python Step3_RealMLP.py
 
-# Step 4: Train TabPFN models
+Step #4: Train TabPFN models
 python Step4_TabPFN.py
 
-# Step 5: Final ensemble
+Step #5: Final ensemble
 python Step5_Ensemble.py
-```
 
-Propopsed Framework
--------------------
-
-
-.. toctree::
-   :maxdepth: 2
-   :caption: ALCHEMIST's Recipe:
-
-   README
-   notebooks/index
+Check https://alchemist-shellai-hackathon-2025.readthedocs.io/en/latest/ for Jupyter Notebooks and other materials. 
 
 AI Assistance 
 --------------
