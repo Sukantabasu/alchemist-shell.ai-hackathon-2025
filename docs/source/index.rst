@@ -6,7 +6,8 @@ ALCHEMIST: (A)IML-powered (L)ow-(c)ost, (H)igh-octane (E)co-fuel (M)ixture (I)de
 Problem Statement
 -----------------
 
-This project focuses on fuel property prediction using machine learning techniques.
+The Shell AI Hackathon 2025 focuses on predicting fuel blend properties using machine learning techniques. This challenge involves predicting multiple target properties (BlendProperty1 through BlendProperty10) of fuel blends based on the composition and properties of individual components.
+
 
 Challenges
 ----------
