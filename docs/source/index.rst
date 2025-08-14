@@ -67,31 +67,31 @@ Usage Guide
 
 1. **Prepare Data Structure**:
 
-Create a DATA/ folder containing train.csv and test.csv
+a. Create a DATA/ folder containing train.csv and test.csv
 
-Create an ExtractedDATA/ folder for processed outputs
+b. Create an ExtractedDATA/ folder for processed outputs
 
-Create a Models/ folder for trained model artifacts
+c. Create a Models/ folder for trained model artifacts
 
-2. **Run the Pipeline**:
+2. **Run the Pipeline**::
 
-Step #1: Preprocessing
+a. Step #1: Preprocessing
 
 python Step1_Preprocess.py
 
-Step #2: Generate AutoGluon OOFs
+b. Step #2: Generate AutoGluon OOFs
 
 python Step2_AutoGluon_OOF.py
 
-Step #3: Train RealMLP models
+c. Step #3: Train RealMLP models
 
 python Step3_RealMLP.py
 
-Step #4: Train TabPFN models
+d. Step #4: Train TabPFN models
 
 python Step4_TabPFN.py
 
-Step #5: Final ensemble
+e. Step #5: Final ensemble
 
 python Step5_Ensemble.py
 
