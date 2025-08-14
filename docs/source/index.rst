@@ -8,6 +8,16 @@ Problem Statement
 
 The Shell AI Hackathon 2025 focuses on predicting fuel blend properties using machine learning techniques. This challenge involves predicting multiple target properties (BlendProperty1 through BlendProperty10) of fuel blends based on the composition and properties of individual components.
 
+Dataset Overview
+-----------------
+
+The problem involves:
+- **Input Features**: 5 fuel components, each with:
+  - Volume fraction in the blend
+  - 10 individual properties per component (Component1\_Property1 through Component5\_Property10)
+- **Target Variables**: 10 blend properties that need to be predicted
+- **Training Data**: Historical fuel blend data with known outcomes
+- **Test Data**: New fuel blend compositions requiring property predictions
 
 Challenges
 ----------
