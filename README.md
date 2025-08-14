@@ -63,33 +63,33 @@ Usage Guide
 
 1. **Prepare Data Structure**
 
-Create a DATA/ folder containing train.csv and test.csv
+  Create a DATA/ folder containing train.csv and test.csv
 
-Create an ExtractedDATA/ folder for processed outputs
+  Create an ExtractedDATA/ folder for processed outputs
 
-Create a Models/ folder for trained model artifacts
+  Create a Models/ folder for trained model artifacts
 
 3. **Run the Pipeline**:
 
-Step #1: Preprocessing
+  Step #1: Preprocessing
 
-python Step1_Preprocess.py
+    python Step1_Preprocess.py
 
-Step #2: Generate AutoGluon OOFs
+  Step #2: Generate AutoGluon OOFs
 
-python Step2_AutoGluon_OOF.py
+    python Step2_AutoGluon_OOF.py
 
-Step #3: Train RealMLP models
+  Step #3: Run RealMLP models
 
-python Step3_RealMLP.py
+    python Step3_RealMLP.py
 
-Step #4: Train TabPFN models
+  Step #4: Run TabPFN models
 
-python Step4_TabPFN.py
+    python Step4_TabPFN.py
 
-Step #5: Final ensemble
+  Step #5: Ensemble Models
 
-python Step5_Ensemble.py
+    python Step5_Ensemble.py
 
 Check https://alchemist-shellai-hackathon-2025.readthedocs.io/en/latest/ for Jupyter Notebooks and other materials. 
 
