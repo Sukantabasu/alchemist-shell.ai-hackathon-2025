@@ -66,6 +66,7 @@ Usage Guide
 ------------
 
 1. **Prepare Data Structure**:
+
 a. Create a DATA/ folder containing train.csv and test.csv
 
 b. Create an ExtractedDATA/ folder for processed outputs
