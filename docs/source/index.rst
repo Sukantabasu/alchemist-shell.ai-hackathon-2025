@@ -67,11 +67,11 @@ Usage Guide
 
 1. **Prepare Data Structure**:
 
-a. Create a DATA/ folder containing train.csv and test.csv
+Create a DATA/ folder containing train.csv and test.csv
 
-b. Create an ExtractedDATA/ folder for processed outputs
+Create an ExtractedDATA/ folder for processed outputs
 
-c. Create a Models/ folder for trained model artifacts
+Create a Models/ folder for trained model artifacts
 
 2. **Run the Pipeline**:
 
