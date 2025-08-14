@@ -19,8 +19,16 @@ The problem involves:
 - **Training Data**: Historical fuel blend data with known outcomes, sample size = 2000
 - **Test Data**: New fuel blend compositions requiring property predictions, sample size = 500
 
-Challenges
-----------
+Challenging Issues
+------------------
+
+1. Multi-Target Regression Complexity
+
+The problem presents a multi-target regression challenge where 10 different blend properties must be predicted simultaneously. The blend properties are interdependent, requiring models that can capture these relationships. 
+
+2. Training Data Limitation
+
+Due to the limited samples (only 2000) in the training set, traditional hyper-parameter tuning-based multioutput regression approaches are impractical.  
 
 
 Propopsed Framework
