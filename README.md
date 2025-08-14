@@ -69,18 +69,23 @@ c. Create a Models/ folder for trained model artifacts
 2. **Run the Pipeline**:
 
 Step #1: Preprocessing
+
 python Step1_Preprocess.py
 
 Step #2: Generate AutoGluon OOFs
+
 python Step2_AutoGluon_OOF.py
 
 Step #3: Train RealMLP models
+
 python Step3_RealMLP.py
 
 Step #4: Train TabPFN models
+
 python Step4_TabPFN.py
 
 Step #5: Final ensemble
+
 python Step5_Ensemble.py
 
 Check https://alchemist-shellai-hackathon-2025.readthedocs.io/en/latest/ for Jupyter Notebooks and other materials. 
