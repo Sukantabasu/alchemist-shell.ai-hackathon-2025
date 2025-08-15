@@ -1,7 +1,7 @@
 Notebooks
 =========
 
-This section contains Jupyter notebooks demonstrating the ALCHEMIST methodology.
+This section contains Jupyter notebooks documenting the ALCHEMIST's recipes.
 
 .. toctree::
    :maxdepth: 1
