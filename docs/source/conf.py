@@ -66,6 +66,8 @@ html_theme_options = {
     'navigation_depth': 4,
 }
 html_logo = "_static/Alchemist.png"
+html_static_path = ['_static']
+html_css_files = ['custom.css']
 
 # Napoleon settings
 napoleon_google_docstring = True
