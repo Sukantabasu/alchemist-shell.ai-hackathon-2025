@@ -10,3 +10,4 @@ This section contains Jupyter notebooks demonstrating the ALCHEMIST methodology.
    Step2_AutoGluon_OOF
    Step3_RealMLP
    Step4_TabPFN
+   Step5_Ensemble
