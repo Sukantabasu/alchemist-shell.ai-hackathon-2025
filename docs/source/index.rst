@@ -44,6 +44,7 @@ Our comprehensive machine learning strategy employs a sophisticated 5-step ensem
    :align: center
 
 
+
 Step #1: Preprocessing and Feature Engineering
 
 Given the small sample size, we performed limited feature engineering. We kept the original volume fraction fratures (5 features). We computed `Component_i_Contribution_Property_j = fraction_i × property_i_j` for each component-property pair (50 features). We also computed `WeightedAvg_Property_j = Σ(fraction_i × property_i_j)` across all components (10 features). These total 65 input features are expected to capture both individual component contributions and overall blend characteristics.
