@@ -1,4 +1,4 @@
-## ALCHEMIST: `A`&#8203;IML-powered `L`&#8203;ow-`c`ost, `H`igh-octane `E`co-fuel `M`ixture `I`dentification `S`trategy & `T`oolkit
+## ALCHEMIST: `A`IML-powered `L`ow-`c`ost, `H`igh-octane `E`co-fuel `M`ixture `I`dentification `S`trategy & `T`oolkit
 
 **A**&#8203;IML-powered **L**&#8203;ow-cost, **H**&#8203;igh-octane **E**&#8203;co-fuel **M**&#8203;ixture **I**&#8203;dentification **S**&#8203;trategy & **T**&#8203;oolkit
 
