@@ -3,7 +3,6 @@ ALCHEMIST
 
 **A**\IML-powered **L**\ow-**c**\ost, **H**\igh-octane **E**\co-fuel **M**\ixture **I**\dentification **S**\trategy & **T**\oolkit
 
-
 Problem Statement
 -----------------
 
@@ -39,6 +38,10 @@ ALCHEMIST's Recipe
 ------------------
 
 Our comprehensive machine learning strategy employs a sophisticated 5-step ensemble approach designed to maximize prediction accuracy while addressing the challenging issues identified above.
+
+.. image:: _static/homepage.png
+   :width: 400px
+   :align: center
 
 Step #1: Preprocessing and Feature Engineering
 
