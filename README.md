@@ -2,7 +2,7 @@
 
 **A**IML-powered **L**ow-**c**ost, **H**igh-octane **E**co-fuel **M**ixture **I**dentification **S**trategy & **T**oolkit
 
-<img src="Alchemist.png" width="200" alt="Alchemist: Image created by ChatGPT">
+<img src="Alchemist_attribution.png" width="200" alt="Alchemist: Image created by ChatGPT">
 <small>Image created by ChatGPT</small>
 
 Problem Statement
