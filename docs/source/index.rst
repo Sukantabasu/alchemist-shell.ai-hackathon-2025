@@ -100,4 +100,4 @@ Usage Guide
 AI Assistance 
 --------------
 
-Claude.AI (Anthropic) is used for documentation, code restructuring, and performance optimization
+Claude.AI (Anthropic) is used for documentation, code restructuring, and performance optimization.
