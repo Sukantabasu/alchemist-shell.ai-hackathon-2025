@@ -105,7 +105,7 @@ The ALCHEMIST package has been tested with:
 
 .. toctree::
    :maxdepth: 2
-   :caption: ALCHEMIST's Recipe:
+   :caption: ALCHEMIST's Notebooks:
 
    README
    notebooks/index
