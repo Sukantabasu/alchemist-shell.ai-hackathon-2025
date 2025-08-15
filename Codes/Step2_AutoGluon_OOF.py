@@ -30,6 +30,9 @@ AutoGluon-OOFs (step 2). These additional features will capture the correlation
 among targets effectively.
 Step 4: Similar to step 3 except use the TabPFN model.
 Step 5: Combine predictions from RealMLP (step 3) and TabPFN (step 4).
+
+AI Assistance: Claude.AI (Anthropic) is used for documentation, code
+restructuring, and performance optimization.
 """
 
 
