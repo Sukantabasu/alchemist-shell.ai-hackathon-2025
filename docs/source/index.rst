@@ -40,7 +40,7 @@ ALCHEMIST's Recipe
 Our comprehensive machine learning strategy employs a sophisticated 5-step ensemble approach designed to maximize prediction accuracy while addressing the challenging issues identified above.
 
 .. image:: _static/Framework.png
-   :width: 400px
+   :width: 600px
    :align: center
 
 
