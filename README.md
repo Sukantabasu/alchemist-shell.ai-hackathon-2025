@@ -1,15 +1,6 @@
 ## ALCHEMIST: **A** IML-powered **L** ow-cost, **H** igh-octane **E** co-fuel **M** ixture **I** dentification **S** trategy & **T** oolkit
 
-<h1> ALCHEMIST</h1>
-
-<span style="color: #ff6b35; font-weight: bold; font-size: 1.1em;">A</span>IML-powered 
-<span style="color: #ff6b35; font-weight: bold; font-size: 1.1em;">L</span>ow-cost, 
-<span style="color: #ff6b35; font-weight: bold; font-size: 1.1em;">H</span>igh-octane 
-<span style="color: #ff6b35; font-weight: bold; font-size: 1.1em;">E</span>co-fuel 
-<span style="color: #ff6b35; font-weight: bold; font-size: 1.1em;">M</span>ixture 
-<span style="color: #ff6b35; font-weight: bold; font-size: 1.1em;">I</span>dentification 
-<span style="color: #ff6b35; font-weight: bold; font-size: 1.1em;">S</span>trategy & 
-<span style="color: #ff6b35; font-weight: bold; font-size: 1.1em;">T</span>oolkit
+`A`IML-powered `L`ow-cost, `H`igh-octane `E`co-fuel `M`ixture `I`dentification `S`trategy & `T`oolkit
 
 Problem Statement
 -----------------
