@@ -1,4 +1,4 @@
-## ALCHEMIST: **A**\IML-powered (L)ow-(c)ost, (H)igh-octane (E)co-fuel (M)ixture (I)dentification (S)trategy & (T)oolkit
+## ALCHEMIST: <u>A</u>IML-powered <u>L</u>ow-cost, <u>H</u>igh-octane <u>E</u>co-fuel <u>M</u>ixture <u>I</u>dentification <u>S</u>trategy & <u>T</u>oolkit
 
 Problem Statement
 -----------------
