@@ -1,4 +1,4 @@
-## ALCHEMIST: <u>A</u>IML-powered <u>L</u>ow-cost, <u>H</u>igh-octane <u>E</u>co-fuel <u>M</u>ixture <u>I</u>dentification <u>S</u>trategy & <u>T</u>oolkit
+## ALCHEMIST: <span style="color:#006400">A</span>IML-powered <span style="color:#006400">L</span>ow-cost, <span style="color:#006400">H</span>igh-octane <span style="color:#006400">E</span>co-fuel <span style="color:#006400">M</span>ixture <span style="color:#006400">I</span>dentification <span style="color:#006400">S</span>trategy & <span style="color:#006400">T</span>oolkit
 
 Problem Statement
 -----------------
