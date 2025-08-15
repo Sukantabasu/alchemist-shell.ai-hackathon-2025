@@ -1,9 +1,6 @@
-### ALCHEMIST: `A`IML-powered `L`ow-`c`ost, `H`igh-octane `E`co-fuel `M`ixture `I`dentification `S`trategy & `T`oolkit
+## ALCHEMIST: `A`IML-powered `L`ow-`c`ost, `H`igh-octane `E`co-fuel `M`ixture `I`dentification `S`trategy & `T`oolkit
 
-### ALCHEMIST: **A**&#8203;IML-powered **L**&#8203;ow-cost, **H**&#8203;igh-octane **E**&#8203;co-fuel **M**&#8203;ixture **I**&#8203;dentification **S**&#8203;trategy & **T**&#8203;oolkit
-
-### ALCHEMIST: <b>A</b>IML-powered <b>L</b>ow-cost, <b>H</b>igh-octane <b>E</b>co-fuel <b>M</b>ixture <b>I</b>dentification <b>S</b>trategy & <b>T</b>oolkit
-
+## ALCHEMIST: <strong>A</strong>IML-powered <strong>L</strong>ow-cost, <strong>H</strong>igh-octane <strong>E</strong>co-fuel <strong>M</strong>ixture <strong>I</strong>dentification <strong>S</strong>trategy & <strong>T</strong>oolkit
 
 Problem Statement
 -----------------
