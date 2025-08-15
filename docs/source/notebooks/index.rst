@@ -1,5 +1,5 @@
-Notebooks
-=========
+Recipes
+========
 
 This section contains Jupyter notebooks documenting the ALCHEMIST's recipes.
 
