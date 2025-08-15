@@ -60,7 +60,7 @@ Step #5: Final Ensemble Combination
 
 Based on cross-validation scores and public leaderboard performance (computed on 50% of test data), we strategically combine our models: TabPFN predictions are used for the first 4 targets, while RealMLP predictions are used for the remaining 6 targets. We found that more sophisticated stacking approaches did not yield additional improvements with these two models.
 
-We would like to note that both RealMLP and TabPFN are not included in the current stable release of AutoGluon (version 1.4.0). Thus, our multi-step ALCHEMIST framework benefited by having these two models on top of the AutoGluon stack.
+We would like to note that both RealMLP and TabPFN are not included in AutoGluon (version 1.3.1). Thus, our multi-step ALCHEMIST framework benefited by having these two models on top of the AutoGluon stack.
 
 Usage Guide
 ------------
@@ -94,6 +94,19 @@ Usage Guide
   Step #5: Ensemble Models
 
     python Step5_Ensemble.py
+
+Requirements
+------------
+
+The ALCHEMIST package has been tested with:
+
+* python 3.12.11
+* autogluon 1.3.1
+* numpy 1.26.4
+* pandas 2.3.1
+* pytabkit 1.5.2
+* scikit-learn 1.7.1
+* tabpfn 2.1.0
 
 Check https://alchemist-shellai-hackathon-2025.readthedocs.io/en/latest/ for Jupyter Notebooks and other materials. 
 
