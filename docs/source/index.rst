@@ -43,7 +43,10 @@ Our comprehensive machine learning strategy employs a sophisticated 5-step ensem
    :width: 600px
    :align: center
 
+|
+|
 
+Step #1: Preprocessing and Feature Engineering
 
 Step #1: Preprocessing and Feature Engineering
 
