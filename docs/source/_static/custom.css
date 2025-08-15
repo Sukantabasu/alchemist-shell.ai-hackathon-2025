@@ -1,0 +1,10 @@
+/* Add text after the logo using CSS */
+.wy-side-nav-search .wy-dropdown > a::after {
+    content: "Image created by ChatGPT";
+    display: block;
+    font-size: 0.7em;
+    color: #999;
+    font-style: italic;
+    margin-top: 5px;
+    text-align: center;
+}
