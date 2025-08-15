@@ -2,7 +2,7 @@
 
 **A**IML-powered **L**ow-**c**ost, **H**igh-octane **E**co-fuel **M**ixture **I**dentification **S**trategy & **T**oolkit
 
-<img src="logo.png" width="200" alt="Alchemist">
+<img src="Alchemist.png" width="200" alt="Alchemist">
 
 Problem Statement
 -----------------
